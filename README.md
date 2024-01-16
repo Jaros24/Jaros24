@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+MSU Physics 2025
+Undergraduate researcher under Dr. Chris Wrede
+
+
+
 <!--
 **Jaros24/Jaros24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
