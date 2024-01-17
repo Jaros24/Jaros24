@@ -4,10 +4,10 @@ I'm Adam Jaros, a B.S. Physics major at MSU! 💚🤍
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/jaros-adam/)
 [![Discord Badge](https://img.shields.io/badge/Discord-Profile-informationl?style=flat&logo=discord&logoColor=white&color=404EED)](https://www.discord.com/users/adam1441/)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-Recommended-informational?style=flat&logo=youtube&logoColor=white&color=F50000)](https://www.youtube.com/playlist?list=PLmwxJQlNexn94uXLSKS4lmoXxip8atV6v)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-Playlist-informational?style=flat&logo=youtube&logoColor=white&color=F50000)](https://www.youtube.com/playlist?list=PLmwxJQlNexn94uXLSKS4lmoXxip8atV6v)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=DB0097)](https://www.instagram.com/adamjaros2/)
 
-👨‍🔬✨⚛  I'm part of [Dr. Chris Wrede's](https://people.nscl.msu.edu/~wrede/) nuclear astrophysics research group, mainly working on data processing and simulation techniques for the [GADGET II TPC Detector](https://wikihost.nscl.msu.edu/protondetector/lib/exe/fetch.php?media=lecm-ruchi-5august.pdf). 
+👨‍🔬✨⚛  Undergraduate researcher in [Dr. Chris Wrede's](https://people.nscl.msu.edu/~wrede/) nuclear astrophysics group, mainly working on data processing and simulations for the [GADGET II TPC Detector](https://wikihost.nscl.msu.edu/protondetector/lib/exe/fetch.php?media=lecm-ruchi-5august.pdf). 
 
 🏍💨 Vice-President of [MSUMoto](https://www.instagram.com/msumotoclub/)
 
