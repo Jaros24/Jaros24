@@ -22,4 +22,4 @@ I'm Adam Jaros, a B.S. Physics major at MSU! 💚🤍
 </p>
 
 
-![Visits Badge](https://badges.pufler.dev/visits/Jaros24/Jaros24)
+[![Visits Badge](https://badges.pufler.dev/visits/Jaros24/Jaros24)](https://github.com/Jaros24)
