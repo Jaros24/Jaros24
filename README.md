@@ -9,7 +9,7 @@ I'm Adam Jaros, a B.S. Physics major at MSU! 💚🤍
 [![Youtube Badge](https://img.shields.io/badge/Youtube-Playlist-informational?style=flat&logo=youtube&logoColor=white&color=F50000)](https://www.youtube.com/playlist?list=PLmwxJQlNexn94uXLSKS4lmoXxip8atV6v)
 
 
-👨‍🔬✨⚛  Undergraduate researcher in [Dr. Chris Wrede's](https://people.nscl.msu.edu/~wrede/) nuclear astrophysics group. Mainly work on simulations and data processing for the [GADGET II TPC Detector](https://wikihost.nscl.msu.edu/protondetector/lib/exe/fetch.php?media=lecm-ruchi-5august.pdf). 
+👨‍🔬✨⚛  Undergraduate researcher in [Dr. Chris Wrede's](https://people.nscl.msu.edu/~wrede/) nuclear astrophysics group. Working on simulations and data processing for the [GADGET II TPC Detector](https://wikihost.nscl.msu.edu/protondetector/lib/exe/fetch.php?media=lecm-ruchi-5august.pdf), as well as modeling the nucleosynthesis of 7-Li in novae.
 
 🏍💨 Vice-President of [MSUMoto](https://www.instagram.com/msumotoclub/)
 
