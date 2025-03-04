@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm Adam Jaros, a B.S. Physics major at MSU! 💚🤍
+I'm Adam Jaros, a B.S. Physics major at MSU graduating May 2025! 💚🤍
 
 👨‍🔬✨⚛  Undergraduate researcher in [Dr. Chris Wrede's](https://people.nscl.msu.edu/~wrede/) nuclear astrophysics group. Working on simulations and data analysis processing techniques for the [GADGET II TPC](https://wikihost.nscl.msu.edu/protondetector/lib/exe/fetch.php?media=lecm-ruchi-5august.pdf).
 
